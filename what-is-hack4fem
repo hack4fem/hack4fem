@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <title>What is hack4fem?</title>
+    <meta name="description" content="" />
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="favicon.ico">
+
+    <link rel="stylesheet" type="text/css" href="assets/css/screen.css?v=652dc079ea" />
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
+
+    <link rel="canonical" href="http://localhost:2368/what-is-hack4fem/" />
+    <meta name="referrer" content="origin" />
+    <meta name="generator" content="Ghost 0.6" />
+    <link rel="alternate" type="application/rss+xml" title="hacking for feminism" href="http://localhost:2368/rss/" />
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+</head>
+<body class="post-template page-template page nav-closed">
+
+    <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="what-is-hack4fem#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+            <li class="nav-about" role="presentation"><a href="http://localhost:2368/about">About</a></li>
+            <li class="nav-what-is-hack4fem" role="presentation"><a href="http://localhost:2368/what-is-hack4fem">What is hack4fem</a></li>
+            <li class="nav-schedule" role="presentation"><a href="http://localhost:2368/schedule">Schedule</a></li>
+            <li class="nav-inspiration" role="presentation"><a href="http://localhost:2368/inspiration">Inspiration</a></li>
+            <li class="nav-get-involved" role="presentation"><a href="http://localhost:2368/get-involved">Get Involved</a></li>
+    </ul>
+    <a class="subscribe-button icon-feed" href="http://localhost:2368/rss/">Subscribe</a>
+</div>
+<span class="nav-cover"></span>
+
+
+    <div class="site-wrapper">
+
+        
+
+
+<header class="main-header post-head no-cover">
+    <nav class="main-nav  clearfix">
+        <a class="blog-logo" href="http://localhost:2368"><img src="content/images/2015/08/hack4femlogo.svg" alt="hacking for feminism" /></a>
+            <a class="menu-button icon-menu" href="what-is-hack4fem#"><span class="word">Menu</span></a>
+    </nav>
+</header>
+
+<main class="content" role="main">
+    <article class="post featured page">
+
+        <header class="post-header">
+            <h1 class="post-title">What is hack4fem?</h1>
+        </header>
+
+        <section class="post-content">
+            <p>The Hack for Feminism group (hack4fem for short) focuses on combining engineering with activism.</p>
+
+<p>Our mission is <strong>to engage technically-minded people in hands-on work in support of feminism and feminist causes.</strong> By connecting people through our events, we hope to build a <strong>self-sustaining and supportive network</strong> of technically-minded feminists. We organize a series of events, including the hack4fem Generator.</p>
+
+<p>We want to help engineers get involved in feminist issues, connect scientists and mathematicians doing research relevant to feminism, provide resources for programmers working to address feminist issues, and more. We plan on showcasing the funny and creative sides of feminism and having a boatload of fun – come join us!</p>
+        </section>
+
+    </article>
+</main>
+
+
+        <footer class="site-footer clearfix">
+            <section class="copyright"><a href="http://localhost:2368">hacking for feminism</a> &copy; 2015</section>
+            <section class="poweredby">Proudly published with <a href="https://ghost.org">Ghost</a></section>
+        </footer>
+
+    </div>
+
+    <script src="public/jquery.js?v=652dc079ea"></script>
+
+    <script type="text/javascript" src="assets/js/jquery.fitvids.js?v=652dc079ea"></script>
+    <script type="text/javascript" src="assets/js/index.js?v=652dc079ea"></script>
+
+</body>
+</html>

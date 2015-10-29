@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <title>Convention</title>
+    <meta name="description" content="" />
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="favicon.ico">
+
+    <link rel="stylesheet" type="text/css" href="assets/css/screen.css?v=652dc079ea" />
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400" />
+
+    <link rel="canonical" href="http://localhost:2368/schedule/" />
+    <meta name="referrer" content="origin" />
+    <meta name="generator" content="Ghost 0.6" />
+    <link rel="alternate" type="application/rss+xml" title="hacking for feminism" href="http://localhost:2368/rss/" />
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+</head>
+<body class="post-template page-template page nav-closed">
+
+    <div class="nav">
+    <h3 class="nav-title">Menu</h3>
+    <a href="schedule#" class="nav-close">
+        <span class="hidden">Close</span>
+    </a>
+    <ul>
+            <li class="nav-about" role="presentation"><a href="http://localhost:2368/about">About</a></li>
+            <li class="nav-what-is-hack4fem" role="presentation"><a href="http://localhost:2368/what-is-hack4fem">What is hack4fem</a></li>
+            <li class="nav-schedule" role="presentation"><a href="http://localhost:2368/schedule">Schedule</a></li>
+            <li class="nav-inspiration" role="presentation"><a href="http://localhost:2368/inspiration">Inspiration</a></li>
+            <li class="nav-get-involved" role="presentation"><a href="http://localhost:2368/get-involved">Get Involved</a></li>
+    </ul>
+    <a class="subscribe-button icon-feed" href="http://localhost:2368/rss/">Subscribe</a>
+</div>
+<span class="nav-cover"></span>
+
+
+    <div class="site-wrapper">
+
+        
+
+
+<header class="main-header post-head no-cover">
+    <nav class="main-nav  clearfix">
+        <a class="blog-logo" href="http://localhost:2368"><img src="content/images/2015/08/hack4femlogo.svg" alt="hacking for feminism" /></a>
+            <a class="menu-button icon-menu" href="schedule#"><span class="word">Menu</span></a>
+    </nav>
+</header>
+
+<main class="content" role="main">
+    <article class="post featured page">
+
+        <header class="post-header">
+            <h1 class="post-title">Convention</h1>
+        </header>
+
+        <section class="post-content">
+            <h3 id="what">What</h3>
+
+<p>Join us in November for a day of brainstorming how to combine technology and feminism, and workshops that give you tools to bring those ideas to life.</p>
+
+<p><strong><a href="https://www.eventbrite.com/e/hack4fem-hackathon-tickets-18967474226"">Register on eventbrite!</a></strong></p>
+
+<h3 id="when">When</h3>
+
+<p>Saturday, November 14, 2015, 9:30-6</p>
+
+<h3 id="schedule">Schedule</h3>
+
+<table>  
+<tr><td>9:30-10:00AM</td><td>Breakfast and Registration</td></tr>  
+<tr><td>10:00AM-10:40AM</td><td>Keynote Speakers</td></tr>  
+<tr><td></td><td>Kelley Marie Adams, Program Manager, MIT Violence Prevention and Response</td></tr>  
+<tr><td></td><td>Vienna Rothberg, Program Manager for PLEASURE (Peers Leading Education About Sexuality and Speaking up for Relationship Empowerment)</td></tr>  
+<tr><td></td><td><a href="https://www.umb.edu/academics/cla/faculty/jyoti_sinha">Dr. Jyoti Sinha</a>, Visiting Scholar, Women's and Gender Studies Department, UMass Boston</td></tr>  
+<tr><td></td><td>Kate Carson, Boston Doula Project</td></tr>  
+<tr><td>10:40AM-11:00AM</td><td>Panel Q&A</td></tr>  
+<tr><td>11:00AM-11:15AM</td><td>Break</td></tr>  
+<tr><td>11:15AM-12:00PM</td><td>Hands-on workshops  
+<tr><td></td><td>DIY menstural cups</td></tr>  
+<tr><td></td><td>DIY Cloth Pads</td></tr>  
+<tr><td></td><td>TBD</td></tr></td></tr>  
+<tr><td>12:00PM-12:45PM</td><td>Lunch (on your own)</td></tr>  
+<tr><td>12:45PM-1:00PM</td><td>Form hackathon teams</td></tr>  
+<tr><td>1:00PM-5:00PM</td><td>**Hack!**</td></tr>  
+<tr><td>5:00PM-5:30PM</td><td>3 minute Project Presentations</td></tr>  
+<tr><td>5:30PM-6:00PM</td><td>Wrap-up</td></tr></table>
+
+<h3 id="where">Where</h3>
+
+<p>MIT E17-122 <br />
+40 Ames Street <br />
+Cambridge, MA 02139 <br />
+<a href="http://student.mit.edu/cgi-bin/display_pictures.sh?E17-122">Map</a></p>
+
+<p><a href="https://twitter.com/hack4fem" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @hack4fem</a></p>
+
+<div class="fb-like" data-href="http://www.facebook.com/Hack4Fem-712696095531455" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+        </section>
+
+    </article>
+</main>
+
+
+        <footer class="site-footer clearfix">
+            <section class="copyright"><a href="http://localhost:2368">hacking for feminism</a> &copy; 2015</section>
+            <section class="poweredby">Proudly published with <a href="https://ghost.org">Ghost</a></section>
+        </footer>
+
+    </div>
+
+    <script src="public/jquery.js?v=652dc079ea"></script>
+
+    <script type="text/javascript" src="assets/js/jquery.fitvids.js?v=652dc079ea"></script>
+    <script type="text/javascript" src="assets/js/index.js?v=652dc079ea"></script>
+
+</body>
+</html>
